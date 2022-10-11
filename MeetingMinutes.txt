@@ -14,3 +14,11 @@ https://www.researchgate.net/publication/235920894_Conductometric_titration_meth
 6) The field of microfluidics came up briefly. The lack of accuracy in previous Finflow realizations was also mentioned.
 
 7) An interesting paper which discussed an app for Titrations for colour-blind students was found : https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00027#
+
+
+
+oct 11 
+basics of arduino 
+made basic circuit 
+distance measuring circuit using ultasonic sensor
+making holes by laser cutting for holding peristaltic pumps  
