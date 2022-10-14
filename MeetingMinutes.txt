@@ -22,3 +22,7 @@ basics of arduino
 made basic circuit 
 distance measuring circuit using ultasonic sensor
 making holes by laser cutting for holding peristaltic pumps  
+
+oct 15 , 2022
+working of motor using arduino and drive 
+measured rate of flow of water at different volts
