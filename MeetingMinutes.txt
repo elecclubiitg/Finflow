@@ -22,3 +22,10 @@ basics of arduino
 made basic circuit 
 distance measuring circuit using ultasonic sensor
 making holes by laser cutting for holding peristaltic pumps  
+
+
+oct 22 
+basics of arduino
+made basic circuit 
+ our circuit problem : 
+    motor didn't worked due to volate of our circuit is 9v and motor is 2.7v so, we need to connect another circuit ...so that overall voltage of circuit is 2.7v
