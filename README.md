@@ -21,14 +21,14 @@ Water is drawn into the beaker through a pump. Ammonium ion is detected by Berth
 &nbsp;
 
 ### Project veterans
-Arijit Mohanta
-Devid Kumar Deka
-Yatharth Patil
-Srijan Acharya
-Sakshi Chouhan
-Bintee
-Sreeja Mondal 
-Ruchira Banerjee 
+i)Arijit Mohanta
+ii)Devid Kumar Deka
+iii)Yatharth Patil
+iv)Srijan Acharya
+v)Sakshi Chouhan
+vi)Bintee
+vii)Sreeja Mondal 
+viii)Ruchira Banerjee 
 
 &nbsp;
 
