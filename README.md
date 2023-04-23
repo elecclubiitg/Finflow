@@ -1,4 +1,4 @@
-# Simon Says
+# Finflow
 
 ## Introduction
 An IoT enabled smart pond monitoring system. Measures the levels of water quality by sensors and automated volumetric titration. Data is stored in the cloud and the farmer is warned through notification whenever a parameter is at a dangerous level.
@@ -21,10 +21,14 @@ Water is drawn into the beaker through a pump. Ammonium ion is detected by Berth
 &nbsp;
 
 ### Project veterans
-i) Anindya Biswas  
-ii) Koustub G Rao  
-iii) Raveena Kumari  
-iv) Naman Jain  
+Arijit Mohanta
+Devid Kumar Deka
+Yatharth Patil
+Srijan Acharya
+Sakshi Chouhan
+Bintee
+Sreeja Mondal 
+Ruchira Banerjee 
 
 &nbsp;
 
