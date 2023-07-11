@@ -11,6 +11,10 @@ Water is drawn into the beaker through a pump. Ammonium ion is detected by Berth
 </p>
 
 &nbsp;
+![image](https://github.com/elecclubiitg/Finflow/assets/26748554/1327d676-f4bd-479a-9cb7-62d89e2f11d0)
+</p>
+
+&nbsp;
 
 ## Workflow
 
