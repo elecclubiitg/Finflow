@@ -37,9 +37,9 @@ viii)Ruchira Banerjee
 &nbsp;
 
 ### TechStacks
-i)Arduino Mega
-ii)AS7265x spectral triad 
-iii)Colourimetric-titration  
+i)Arduino Mega <br />
+ii)AS7265x spectral triad <br />
+iii)Colourimetric-titration <br />
 iv)FPGA(Field Programmable Gate Array)
 
 ##### Lets connect and have a Chat!💬
