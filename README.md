@@ -37,9 +37,10 @@ viii)Ruchira Banerjee
 &nbsp;
 
 ### TechStacks
-i) Verilog  
-ii) FPGA (Field Programmable Gate Array)  
-iii) Digital ICs  
+i)Arduino Mega
+ii)AS7265x spectral triad 
+iii)Colourimetric-titration  
+iv)FPGA(Field Programmable Gate Array)
 
 ##### Lets connect and have a Chat!💬
 <a href="https://www.instagram.com/electronicsclubiitg/?hl=en" ><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45"></a>
