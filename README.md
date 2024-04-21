@@ -25,14 +25,21 @@ Water is drawn into the beaker through a pump. Ammonium ion is detected by Berth
 &nbsp;
 
 ### Project veterans
-i)Arijit Mohanta
-ii)Devid Kumar Deka
-iii)Yatharth Patil
-iv)Srijan Acharya
-v)Sakshi Chouhan
-vi)Bintee
-vii)Sreeja Mondal 
-viii)Ruchira Banerjee 
+
+1. Anany Sahire          anany@iitg.ac.in
+2. Dalisha Nagpal        n.dalisha@iitg.ac.in
+3. Priyanshu Maurya	     priyanshu.maurya@iitg.ac.in
+4. Rishabh Rajak	       rishabh.rajak@iitg.ac.in
+5. Arijit Mohanta	       m.arijit@iitg.ac.in
+6. Devid Kr. Deka        d.devid@iitg.ac.in
+7. Rohit V Sagvekar      sagvekar@iitg.ac.in
+8. Yatharth Patil        p.yatharth@iitg.ac.in
+9. Srijan Acharya	      a.srijan@iitg.ac.in
+10. MAITREE DUTTA	      d.maitree@iitg.ac.in
+11. Sakshi Chouhan	    c.sakshi@iitg.ac.in
+12. Bintee	            b.bintee@iitg.ac.in
+13. Sreeja Mondal	      m.sreeja@iitg.ac.in
+14. Ruchira Banerjee	  b.ruchira@iitg.ac.in
 
 &nbsp;
 
@@ -40,7 +47,6 @@ viii)Ruchira Banerjee
 i)Arduino Mega <br />
 ii)AS7265x spectral triad <br />
 iii)Colourimetric-titration <br />
-iv)FPGA(Field Programmable Gate Array)
 
 ##### Lets connect and have a Chat!💬
 <a href="https://www.instagram.com/electronicsclubiitg/?hl=en" ><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45"></a>
