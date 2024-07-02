@@ -47,6 +47,7 @@ Water is drawn into the beaker through a pump. Ammonium ion is detected by Berth
 i)Arduino Mega <br />
 ii)AS7265x spectral triad <br />
 iii)Colourimetric-titration <br />
+iv)NodeMCU <br />
 
 ##### Lets connect and have a Chat!💬
 <a href="https://www.instagram.com/electronicsclubiitg/?hl=en" ><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45"></a>
